@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alan Samuel Sandoval López</title>
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            background-color: #1a1a1a;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4b0082; /* Morado oscuro */
+            color: #ffd700; /* Mostaza */
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+        }
+        footer {
+            background-color: #4b0082;
+            color: #ffd700;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Alan Samuel Sandoval López</h1>
+        <p>Graduando de 5to Bachillerato en Computación con Orientación en Comercio</p>
+    </header>
+
+    <section id="about">
+        <h2>Sobre mí</h2>
+        <p>Soy un estudiante de 5to Bachillerato en Computación con Orientación en Comercio. Me encanta la tecnología y los videojuegos, especialmente los de Supercell. Tengo certificados de Cisco y estoy interesado en diseñar un juego.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Proyectos</h2>
+        <p>Actualmente, estoy trabajando en varios proyectos de desarrollo de juegos que combinan elementos de mis juegos favoritos. Uno de mis objetivos es crear un juego único que integre características de diferentes juegos de Supercell.</p>
+    </section>
+
+    <section id="education">
+        <h2>Educación</h2>
+        <p>Estoy cursando el 5to Bachillerato en Computación con Orientación en Comercio. Además, poseo certificados de Cisco en redes y tecnología.</p>
+    </section>
+
+    <section id="hobbies">
+        <h2>Hobbies</h2>
+        <p>Mis hobbies incluyen jugar videojuegos, especialmente los de Supercell, diseñar juegos y aprender sobre nuevas tecnologías. También me gustan las ovejas y las serpientes.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contacto</h2>
+        <p>Si deseas contactarme, puedes enviarme un correo a: <a href="mailto:tuemail@ejemplo.com">tuemail@ejemplo.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Alan Samuel Sandoval López. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
